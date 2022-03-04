@@ -1,7 +1,7 @@
-# REPL-BOT
+# STRING BOT
 
 
-> A star ⭐ from you means a lot to us!
+> A star 💫 from you means a lot to us!
 
 <p align="center"><a href="https://www.github.com/AMANTYA1"><img src="https://telegra.ph/file/8c0c0dc2721c54857acf0.jpg" width="2000"></a></p>
 
@@ -71,4 +71,4 @@ Group Chat :- [Group support](https://t.me/REPOKIDUNIYA)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/kuldiprathod/String) 
 
-[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/AMANTYA1/String_gen)
+[![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/kuldiprathod/String)
