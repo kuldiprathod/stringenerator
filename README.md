@@ -3,7 +3,7 @@
 
 > A star ⭐ from you means a lot to us!
 
-<p align="center"><a href="https://www.github.com/AMANTYA1"><img src="https://telegra.ph/file/ddedafcf0c0cc04b4a320.jpg" width="2000"></a></p>
+<p align="center"><a href="https://www.github.com/AMANTYA1"><img src="https://telegra.ph/file/8c0c0dc2721c54857acf0.jpg" width="2000"></a></p>
 
 Telegram bot to generate pyrogram and telethon string session.
 
@@ -12,7 +12,7 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AMANTYA1/String_gen)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kuldiprathod/String)
 
 1. Tap on above button and fill `API_ID`, `API_HASH`, `BOT_TOKEN` (and `MUST_JOIN`).
 2. Then tap "Deploy App" below it. Wait till deploying is complete (will take atmost 2 minutes).
@@ -61,14 +61,14 @@ Telegram bot to generate pyrogram and telethon string session.
 
 ## Support
 
-Channel :- [Bot Duniya](https://t.me/BotDuniya)
+Channel :- [NOBITA_SHIZUKA](https://t.me/Nobita_shizuka_repo)
 
-Group Chat :- [Group support](https://t.me/PmPermit)
+Group Chat :- [Group support](https://t.me/REPOKIDUNIYA)
 
 ## :)
 
 [![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/AMANTYA1/String_gen) 
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/kuldiprathod/String) 
 
 [![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)](https://github.com/AMANTYA1/String_gen)
