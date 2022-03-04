@@ -8,7 +8,7 @@ Hey {}
 
 Welcome to {}
 Bot For help You to Create Session.
-[➼](https://telegra.ph/file/244a1d5f862b0991d13b6.jpg) So What U Waiting For Generat STRING Session
+[➼](https://telegra.ph/file/8c0c0dc2721c54857acf0.jpg) So What U Waiting For Generat STRING Session
 ───────────────────────
 
 If you don't trust this bot, 
@@ -18,7 +18,7 @@ If you don't trust this bot,
 Still reading?
 You can use me to generate pyrogram and telethon string session. Use below buttons to learn more !
 
-✗ Pᴏᴡᴇʀᴇᴅ 🔥 Bʏ: [Kɪɢᴏ!](https://t.me/kigo_omfo)
+✗ Pᴏᴡᴇʀᴇᴅ 🔥 Bʏ: [NOBITA!](https://t.me/kigo_omfo)
     """
 
     # Home Button
