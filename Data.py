@@ -65,5 +65,5 @@ Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @kigo_omfo
+Developer : @Nobi_xxd
     """
